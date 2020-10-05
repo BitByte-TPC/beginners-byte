@@ -1,0 +1,14 @@
+{
+    "logo": "assets.bitbyte.png",
+    "title": "beginners-byte",
+    "repositories": [
+        {
+            "name": "JagratiWebApp",
+            "link": "https://github.com/garg3133/JagratiWebApp"
+        },
+        {
+            "name": "first-bit",
+            "link": "https://github.com/BitByte-TPC/first-bit"
+        }
+    ]
+}
