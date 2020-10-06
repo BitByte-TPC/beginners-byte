@@ -1,9 +1,6 @@
 name: Update Readme
 
-on:
-  push:
-    branches:
-      -master
+on: [push]
 
 jobs:
   generate-readme:
