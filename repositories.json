@@ -13,6 +13,11 @@
             "labels": ["first-timers-only", "good first issue"]
         },
         {
+            "name": "TF-Droid",
+            "link": "https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid",
+            "labels": ["first-timers-only", "good first issue"]
+        },
+        {
             "name": "first-bit",
             "link": "https://github.com/BitByte-TPC/first-bit",
             "labels": ["first-timers-only", "good first issue", "help wanted"]
