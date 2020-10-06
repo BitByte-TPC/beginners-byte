@@ -1,6 +1,9 @@
 name: Update Readme
 
-on: [push]
+on:
+  push:
+    branches:
+      -master
 
 jobs:
   generate-readme:
@@ -17,8 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update README
-          branch: test-github-actions
-          commit_user_name: github-actions 🤖
+          commit_message: Update README.md
+          branch: master
+          commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
-          commit_author: github-actions 🤖 <actions@github.com>
+          commit_author: readme-scribe 🤖 <actions@github.com>
