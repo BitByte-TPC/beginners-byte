@@ -4,15 +4,18 @@
     "repositories": [
         {
             "name": "JagratiWebApp",
-            "link": "https://github.com/garg3133/JagratiWebApp"
+            "link": "https://github.com/garg3133/JagratiWebApp",
+            "labels": ["first-timers-only", "good first issue", "help wanted"]
         },
         {
             "name": "beginners-byte",
-            "link": "https://github.com/BitByte-TPC/beginners-byte"
+            "link": "https://github.com/BitByte-TPC/beginners-byte",
+            "labels": ["first-timers-only", "good first issue"]
         },
         {
             "name": "first-bit",
-            "link": "https://github.com/BitByte-TPC/first-bit"
+            "link": "https://github.com/BitByte-TPC/first-bit",
+            "labels": ["first-timers-only", "good first issue", "help wanted"]
         }
     ]
 }
