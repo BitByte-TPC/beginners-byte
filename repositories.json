@@ -13,6 +13,16 @@
             "labels": ["first-timers-only", "good first issue"]
         },
         {
+            "name": "ritchie-formulas",
+            "link": "https://github.com/ZupIT/ritchie-formulas",
+            "labels": ["Hacktoberfest","documentation" ,"good first issue"]
+        },
+        {
+            "name": "awesome-travel",
+            "link": "https://github.com/unseen1980/awesome-travel",
+            "labels": ["hacktoberfest","hacktoberfest20","hacktoberfest2020","help wanted" ,"good first issue"]
+        },
+        {
             "name": "TF-Droid",
             "link": "https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid",
             "labels": ["first-timers-only", "good first issue"]
@@ -31,6 +41,11 @@
             "name": "awesome-python",
             "link": "https://github.com/vinta/awesome-python",
             "labels": []
+        },
+        {
+            "name": "Seasonal Bot",
+            "link": "https://github.com/python-discord/seasonalbot",
+            "labels": ["good first issue", "help wanted", "level: 0 - beginner"]
         },
         {
             "name": "first-bit",
