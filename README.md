@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://github.com/BitByte-TPC">
-<img src="assets/bitbyte.png" width="20%">
-</a>
+    <a href="https://github.com/BitByte-TPC">
+        <img src="assets/bitbyte.png" width="20%">
+    </a>
 </p>
 
 <h1 align="center"> 
-BitByte - The Programming Club
-<br>
-Beginners-Byte 🎉
+    BitByte - The Programming Club
+    <br>
+    Beginners-Byte 🎉
 </h1>
 
 <div align="center">
