@@ -8,7 +8,7 @@
 
 ## Making Changes
 
-* Create a branch : `git checkout -b branch-name`. Please avoidmworking directly on the `master` branch.
+* Create a branch : `git checkout -b branch-name`. Please avoid working directly on the `master` branch.
 * Make commits of logical units.
 * Make changes in `repositories.json` file only.
 * Put this `json object` anywhere in between the other repositories listed in the file **but please do not add it at the start or end of the list.**
