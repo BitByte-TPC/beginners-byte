@@ -1,0 +1,91 @@
+{
+    "logo": "assets/bitbyte.png",
+    "title": "beginners-byte",
+    "repositories": [
+        {
+            "name": "JagratiWebApp",
+            "link": "https://github.com/garg3133/JagratiWebApp",
+            "labels": ["first-timers-only", "good first issue", "help wanted"]
+        },
+        {
+            "name": "beginners-byte",
+            "link": "https://github.com/BitByte-TPC/beginners-byte",
+            "labels": ["first-timers-only", "good first issue"]
+        },
+        {
+            "name": "ritchie-formulas",
+            "link": "https://github.com/ZupIT/ritchie-formulas",
+            "labels": ["Hacktoberfest","documentation" ,"good first issue"]
+        },
+        {
+            "name": "awesome-travel",
+            "link": "https://github.com/unseen1980/awesome-travel",
+            "labels": ["hacktoberfest","hacktoberfest20","hacktoberfest2020","help wanted" ,"good first issue"]
+        },
+        {
+            "name": "TF-Droid",
+            "link": "https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid",
+            "labels": ["first-timers-only", "good first issue"]
+        },
+        {
+            "name": "Awesome-Profile-README-templates",
+            "link": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+            "labels": []
+        },
+        {
+            "name": "awesome-php",
+            "link": "https://github.com/ziadoz/awesome-php",
+            "labels": []
+        },
+        {
+            "name": "awesome-python",
+            "link": "https://github.com/vinta/awesome-python",
+            "labels": []
+        },
+        {
+            "name": "Seasonal Bot",
+            "link": "https://github.com/python-discord/seasonalbot",
+            "labels": ["good first issue", "help wanted", "level: 0 - beginner"]
+        },
+        {
+            "name": "first-bit",
+            "link": "https://github.com/BitByte-TPC/first-bit",
+            "labels": ["first-timers-only", "good first issue", "help wanted"]
+        },
+        {
+            "name": "awesome-hacktoberfest-2020",
+            "link": "https://github.com/OtacilioN/awesome-hacktoberfest-2020",
+            "labels": []
+        },
+        {
+            "name": "Hacktoberfest-2020",
+            "link": "https://github.com/OpenSourceTogether/Hacktoberfest-2020",
+            "labels": []
+        },
+        {
+            "name": "predator",
+            "link": "https://github.com/Zooz/predator",
+            "labels": ["first-timers-only", "good first issue", "help wanted", "docs"]
+        },
+        {
+            "name": "git-osp-for-beginners",
+            "link": "https://github.com/aditya109/git-osp-for-beginners",
+            "labels": ["Hacktoberfest", "good first issue"]
+        },
+        {
+            "name": "opendrinks",
+            "link": "https://github.com/alfg/opendrinks",
+            "labels": []
+        },
+        {
+            "name": "simple-icons",
+            "link": "https://github.com/simple-icons/simple-icons",
+            "labels": ["new icon", "icon outdated"]
+        },
+        {
+            "name": "motivate",
+            "link": "https://github.com/avats-dev/motivate",
+            "labels": []
+        }
+    ]
+}
