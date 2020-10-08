@@ -86,6 +86,86 @@
             "name": "motivate",
             "link": "https://github.com/avats-dev/motivate",
             "labels": []
+        },
+        {
+            "name": "algo_ds_101",
+            "link": "https://github.com/ahampriyanshu/algo_ds_101",
+            "labels": ["Hacktoberfest", "first timer", "good first issue"]
+        },
+        {
+            "name": "Automation-scripts",
+            "link": "https://github.com/python-geeks/Automation-scripts",
+            "labels": ["hacktoberfest", "beginner", "good first issue"]
+        },
+        {
+            "name": "LeetCode-Solutions",
+            "link": "https://github.com/SHY-Corp/LeetCode-Solutions",
+            "labels": ["hacktoberfest", "good first issue"]
+        },
+        {
+            "name": "Hacktoberfest-2k20",
+            "link": "https://github.com/WebClub-NITK/Hacktoberfest-2k20",
+            "labels": ["Hacktoberfest", "good first issue", "beginner"]
+        },
+        {
+            "name": "PRpractice",
+            "link": "https://github.com/iamvpa/PRpractice",
+            "labels": []
+        },
+        {
+            "name": "simplejavaprogram",
+            "link": "https://github.com/tusharjuneja06/simplejavaprogram",
+            "labels": []
+        },
+        {
+            "name": "10-Easy-Steps",
+            "link": "https://github.com/msandfor/10-Easy-Steps",
+            "labels": []
+        },
+        {
+            "name": "Coding-Questions",
+            "link": "https://github.com/soh-sarkar/Coding-Questions",
+            "labels": ["hacktoberfest", "good first issue", "help wanted"]
+        },
+        {
+            "name": "AlgoCode",
+            "link": "https://github.com/pratik-choudhari/AlgoCode",
+            "labels": ["hacktoberfest", "good first issue"]
+        },
+        {
+            "name": "devsnippets",
+            "link": "https://github.com/rickwest/devsnippets",
+            "labels": ["hacktoberfest", "good first issue", "help wanted"]
+        },
+        {
+            "name": "Hacktoberfest2020",
+            "link": "https://github.com/CMPN-CODECELL/Hacktoberfest2020",
+            "labels": ["hacktoberfest", "good first issue"]
+        },
+        {
+            "name": "developer-community-stats",
+            "link": "https://github.com/subeshb1/developer-community-stats",
+            "labels": ["Hacktoberfest", "Hacktoberfest2020", "good first issue", "help wanted", "beginner"]
+        },
+        {
+            "name": "All_Programs_and_algorithms",
+            "link": "https://github.com/jeremie1112/All_Programs_and_algorithms",
+            "labels": ["hacktoberfest", "hacktoberfest2020", "good first issue", "help wanted", "beginner"]
+        },
+        {
+            "name": "Snippets",
+            "link": "https://github.com/Anuja-19/Snippets",
+            "labels": ["hacktoberfest", "good first issue", "beginner"]
+        },
+        {
+            "name": "dev-resume",
+            "link": "https://github.com/Taiwrash/dev-resume",
+            "labels": ["Hacktoberfest", "Beginner"]
+        },
+        {
+            "name": "One_line_PythonPrograms",
+            "link": "https://github.com/girishtulabandu/One_line_PythonPrograms",
+            "labels": ["Hacktoberfest2020", "hacktoberfest", "good first issue", "beginner"]
         }
     ]
 }
