@@ -101,81 +101,97 @@
         {
             "name": "algo_ds_101",
             "link": "https://github.com/ahampriyanshu/algo_ds_101",
+            "description": "An algorithm a day keeps the mass recruiter away",
             "labels": ["Hacktoberfest", "first timer", "good first issue"]
         },
         {
             "name": "Automation-scripts",
             "link": "https://github.com/python-geeks/Automation-scripts",
+            "description": "Repo for creating awesome automation scripts to make my panda lazier",
             "labels": ["hacktoberfest", "beginner", "good first issue"]
         },
         {
             "name": "LeetCode-Solutions",
             "link": "https://github.com/SHY-Corp/LeetCode-Solutions",
+            "description": "A compilation of all the Leetcode solutions.",
             "labels": ["hacktoberfest", "good first issue"]
         },
         {
             "name": "Hacktoberfest-2k20",
             "link": "https://github.com/WebClub-NITK/Hacktoberfest-2k20",
+            "description": "Repository for Hacktoberfest 2020 Meetup at NITK Surathkal",
             "labels": ["Hacktoberfest", "good first issue", "beginner"]
         },
         {
             "name": "PRpractice",
             "link": "https://github.com/iamvpa/PRpractice",
+            "description": "Send your Pull Request",
             "labels": []
         },
         {
             "name": "simplejavaprogram",
             "link": "https://github.com/tusharjuneja06/simplejavaprogram",
+            "description": "add ur java programs as a contribution to hacktoberfest 2020",
             "labels": []
         },
         {
             "name": "10-Easy-Steps",
             "link": "https://github.com/msandfor/10-Easy-Steps",
+            "description": "A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code",
             "labels": []
         },
         {
             "name": "Coding-Questions",
             "link": "https://github.com/soh-sarkar/Coding-Questions",
+            "description": "This Repository will house the competitive coding and interview questions.",
             "labels": ["hacktoberfest", "good first issue", "help wanted"]
         },
         {
             "name": "AlgoCode",
             "link": "https://github.com/pratik-choudhari/AlgoCode",
+            "description": "Here you can solve problems, build bots and much more.",
             "labels": ["hacktoberfest", "good first issue"]
         },
         {
             "name": "devsnippets",
             "link": "https://github.com/rickwest/devsnippets",
+            "description": "A collection of useful code snippets for new developers",
             "labels": ["hacktoberfest", "good first issue", "help wanted"]
         },
         {
             "name": "Hacktoberfest2020",
             "link": "https://github.com/CMPN-CODECELL/Hacktoberfest2020",
+            "description": "A guide to help you contribute to Hacktoberfest 2020 and to get you started towards Open Source Contribution",
             "labels": ["hacktoberfest", "good first issue"]
         },
         {
             "name": "developer-community-stats",
             "link": "https://github.com/subeshb1/developer-community-stats",
+            "description": "A repository to encourage beginners to contribute to open source and for all contributors to view their Github stats",
             "labels": ["Hacktoberfest", "Hacktoberfest2020", "good first issue", "help wanted", "beginner"]
         },
         {
             "name": "All_Programs_and_algorithms",
             "link": "https://github.com/jeremie1112/All_Programs_and_algorithms",
+            "description": "In this repository, you can add all your programs and algorithm using any coding languages",
             "labels": ["hacktoberfest", "hacktoberfest2020", "good first issue", "help wanted", "beginner"]
         },
         {
             "name": "Snippets",
             "link": "https://github.com/Anuja-19/Snippets",
+            "description": "Contribute to this repository and get your snippet featured on our website.",
             "labels": ["hacktoberfest", "good first issue", "beginner"]
         },
         {
             "name": "dev-resume",
             "link": "https://github.com/Taiwrash/dev-resume",
+            "description": "Dev resume is an open source project where all developer around showcase their contributions to open source. Dev resume is a simple to contribute project",
             "labels": ["Hacktoberfest", "Beginner"]
         },
         {
             "name": "One_line_PythonPrograms",
             "link": "https://github.com/girishtulabandu/One_line_PythonPrograms",
+            "description": "This repository holds simple/complex python programs that can be written in single line.",
             "labels": ["Hacktoberfest2020", "hacktoberfest", "good first issue", "beginner"]
         }
     ]
