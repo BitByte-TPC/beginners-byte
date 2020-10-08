@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1. Submit an issue describing your proposed change.
+1. Feel free to open an issue if you wish to propose something new.
 2. Fork the repository on GitHub.
 3. Clone the fork
 
