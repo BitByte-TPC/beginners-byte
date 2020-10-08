@@ -51,6 +51,41 @@
             "name": "first-bit",
             "link": "https://github.com/BitByte-TPC/first-bit",
             "labels": ["first-timers-only", "good first issue", "help wanted"]
+        },
+        {
+            "name": "awesome-hacktoberfest-2020",
+            "link": "https://github.com/OtacilioN/awesome-hacktoberfest-2020",
+            "labels": []
+        },
+        {
+            "name": "Hacktoberfest-2020",
+            "link": "https://github.com/OpenSourceTogether/Hacktoberfest-2020",
+            "labels": []
+        },
+        {
+            "name": "predator",
+            "link": "https://github.com/Zooz/predator",
+            "labels": ["first-timers-only", "good first issue", "help wanted", "docs"]
+        },
+        {
+            "name": "git-osp-for-beginners",
+            "link": "https://github.com/aditya109/git-osp-for-beginners",
+            "labels": ["Hacktoberfest", "good first issue"]
+        },
+        {
+            "name": "opendrinks",
+            "link": "https://github.com/alfg/opendrinks",
+            "labels": []
+        },
+        {
+            "name": "simple-icons",
+            "link": "https://github.com/simple-icons/simple-icons",
+            "labels": ["new icon", "icon outdated"]
+        },
+        {
+            "name": "motivate",
+            "link": "https://github.com/avats-dev/motivate",
+            "labels": []
         }
     ]
 }
