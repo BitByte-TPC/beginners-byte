@@ -5,86 +5,97 @@
         {
             "name": "JagratiWebApp",
             "link": "https://github.com/garg3133/JagratiWebApp",
+            "description": "Official WebApp of Jagrati - An Initiative of IIITians",
             "labels": ["first-timers-only", "good first issue", "help wanted"]
         },
         {
             "name": "beginners-byte",
             "link": "https://github.com/BitByte-TPC/beginners-byte",
+            "description": "List of awesome beginner-friendly projects",
             "labels": ["first-timers-only", "good first issue"]
         },
         {
             "name": "ritchie-formulas",
             "link": "https://github.com/ZupIT/ritchie-formulas",
+            "description": "This repository contains the community formulas that can be executed through Ritchie CLI once imported.",
             "labels": ["Hacktoberfest","documentation" ,"good first issue"]
         },
         {
             "name": "awesome-travel",
             "link": "https://github.com/unseen1980/awesome-travel",
+            "description": "Do you want to build a travel app?",
             "labels": ["hacktoberfest","hacktoberfest20","hacktoberfest2020","help wanted" ,"good first issue"]
         },
         {
             "name": "TF-Droid",
             "link": "https://github.com/ROBOTICS-CLUB-IIITDMJ/TF-Droid",
+            "description": "Homeland to test your Tensorflow models using tflite",
             "labels": ["first-timers-only", "good first issue"]
         },
         {
             "name": "Awesome-Profile-README-templates",
             "link": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+            "description": "A collection of awesome readme templates to display on your profile",
             "labels": []
         },
         {
             "name": "awesome-php",
             "link": "https://github.com/ziadoz/awesome-php",
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
             "labels": []
         },
         {
             "name": "awesome-python",
             "link": "https://github.com/vinta/awesome-python",
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources",
             "labels": []
         },
         {
             "name": "Seasonal Bot",
             "link": "https://github.com/python-discord/seasonalbot",
+            "description": "A Discord bot started as a community project for Hacktoberfest 2018, later evolved to bot that changes with the seasons.",
             "labels": ["good first issue", "help wanted", "level: 0 - beginner"]
         },
         {
             "name": "first-bit",
             "link": "https://github.com/BitByte-TPC/first-bit",
+            "description": "Contribute your first bit to Open Source.",
             "labels": ["first-timers-only", "good first issue", "help wanted"]
         },
         {
             "name": "awesome-hacktoberfest-2020",
             "link": "https://github.com/OtacilioN/awesome-hacktoberfest-2020",
-            "labels": []
-        },
-        {
-            "name": "Hacktoberfest-2020",
-            "link": "https://github.com/OpenSourceTogether/Hacktoberfest-2020",
+            "description": "A curated list of awesome Hacktoberfest 2020 repositories, guides and resources",
             "labels": []
         },
         {
             "name": "predator",
             "link": "https://github.com/Zooz/predator",
+            "description": "A powerful open-source platform for load testing APIs.",
             "labels": ["first-timers-only", "good first issue", "help wanted", "docs"]
         },
         {
             "name": "git-osp-for-beginners",
             "link": "https://github.com/aditya109/git-osp-for-beginners",
+            "description": "A GitHub Repository to encourage and involve beginners in Open Source Contributions",
             "labels": ["Hacktoberfest", "good first issue"]
         },
         {
             "name": "opendrinks",
             "link": "https://github.com/alfg/opendrinks",
+            "description": "Open Source Drinks! Add your own recipe in a pull request!",
             "labels": []
         },
         {
             "name": "simple-icons",
             "link": "https://github.com/simple-icons/simple-icons",
+            "description": "SVG icons for popular brands",
             "labels": ["new icon", "icon outdated"]
         },
         {
             "name": "motivate",
             "link": "https://github.com/avats-dev/motivate",
+            "description": "A simple script to print random motivational quotes. Highly influenced by linux command fortune.",
             "labels": []
         }
     ]
