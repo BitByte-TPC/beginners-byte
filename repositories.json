@@ -197,6 +197,7 @@
         {
             "name": "Advanced-Angular-calculator",
             "link": "https://github.com/Dilshan1997/Advanced-Angular-calculator",
+            "description": "This repository holds advanced calculator. Angular frame work use for the develop it. long numbers we calculate in here.",
             "labels": ["gui errors"]
         }
     ]
