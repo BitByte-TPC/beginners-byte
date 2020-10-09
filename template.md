@@ -20,7 +20,10 @@
 <a href="https://github.com/BitByte-TPC/beginners-byte/blob/master/LICENSE"><img src="https://img.shields.io/github/license/BitByte-TPC/beginners-byte?color=2b9348" alt="License Badge"/></a>
 </div>
 
-### Description here
+### This repository contains a curated list of awesome beginner-friendly projects :tada: and issue labels where you can easily contribute and get a head start into your journey of Open Source. :rocket:
 
-| Repository  | Issues  |
-|---|---|
+If you are in search of some good beginner-friendly issues irrespective of the project, head up to [first-timers-only](https://github.com/search?q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=Issues) where you can find all the issues with `first-timer-only` label across all repositories on GitHub.
+
+---
+
+## Projects
