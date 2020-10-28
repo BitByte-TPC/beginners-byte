@@ -128,6 +128,10 @@ If you are in search of some good beginner-friendly issues irrespective of the p
   > Open Source Drinks! Add your own recipe in a pull request!  
   [![GitHub issues](https://img.shields.io/github/issues/alfg/opendrinks?color=pink&logo=github)](https://github.com/alfg/opendrinks/issues) 
 
+- [**plot2**](https://github.com/publiclab/plots2)  
+  > A collaborative knowledge-exchange platform in Rails; we welcome first-time contributors!  
+  [![GitHub issues](https://img.shields.io/github/issues/publiclab/plots2?color=pink&logo=github)](https://github.com/publiclab/plots2/issues) [![GitHub issues](https://img.shields.io/github/issues/publiclab/plots2/first-timers-only?color=pink&logo=github)](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3A%22first-timers-only%22) 
+
 - [**predator**](https://github.com/Zooz/predator)  
   > A powerful open-source platform for load testing APIs.  
   [![GitHub issues](https://img.shields.io/github/issues/Zooz/predator?color=pink&logo=github)](https://github.com/Zooz/predator/issues) [![GitHub issues](https://img.shields.io/github/issues/Zooz/predator/first-timers-only?color=pink&logo=github)](https://github.com/Zooz/predator/issues?q=is%3Aissue+is%3Aopen+label%3A%22first-timers-only%22) [![GitHub issues](https://img.shields.io/github/issues/Zooz/predator/good%20first%20issue?color=pink&logo=github)](https://github.com/Zooz/predator/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) [![GitHub issues](https://img.shields.io/github/issues/Zooz/predator/help%20wanted?color=pink&logo=github)](https://github.com/Zooz/predator/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub issues](https://img.shields.io/github/issues/Zooz/predator/docs?color=pink&logo=github)](https://github.com/Zooz/predator/issues?q=is%3Aissue+is%3Aopen+label%3A%22docs%22) 
